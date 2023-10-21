@@ -1,5 +1,5 @@
-## Olá, eu sou o Matheus
-### Bem vindo ao meu repositório
+## hi everybody, this is my repository.
+### welcome to my repository 
 
 <div id="Stats">
 <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=Nenohiki&count_private=true&show_icons=true&theme=radical&locale=pt-br"/>
@@ -19,8 +19,6 @@
 </div>
 
 ##
-
-Atualmente estudando cursos de programaçao na Alura e cursando curso tecnico integrado a ensino médio de desenvolvimento de sistema
 
 ##
 
